@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ErickFPrado/">
+<a href="https://github.com/LMguel/">
   <img src="https://github-readme-stats.vercel.app/api?username=LMguel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e34f26&icon_color=1572b6&text_color=E6E6FF&bg_color=130F40"width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LMguel&show_icons=true&locale=en&layout=compact&line_height=20&title_color=e34f26&icon_color=36486b&text_color=E6E6FF&bg_color=130F40" width="375"  alt="0xabdulkhalid"/>
 
